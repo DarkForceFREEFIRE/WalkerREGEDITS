@@ -3,7 +3,6 @@ Safe
 Testing
 Experiment
 Bypass
-Legit
 
 #Aimbot
 #Essential

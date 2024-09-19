@@ -3,7 +3,7 @@ Risk
 Risk
 Risk
 Blacklist
-Discontinue
+Off
 
 
 #Aimbot

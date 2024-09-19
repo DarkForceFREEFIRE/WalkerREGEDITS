@@ -3,7 +3,7 @@ Risk
 Safe
 Safe
 Blacklist
-UpdateOn
+On
 
 
 #Aimbot

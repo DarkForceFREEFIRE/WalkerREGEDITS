@@ -3,7 +3,7 @@ Safe
 Safe
 None
 Blacklist
-Not Avalible
+Avalible
 Risk
 
 #Aimbot

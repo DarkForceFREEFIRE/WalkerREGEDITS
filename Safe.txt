@@ -3,7 +3,7 @@ Safe
 Risk
 Not Avalible
 Testing
-Off
+Avalible
 Risk
 
 #Aimbot

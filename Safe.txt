@@ -4,12 +4,10 @@ Safe
 None
 Blacklist
 Not Avalible
-Risk
 
 #Aimbot
 #Essential
 #Esp
-#Legit
+#Experiment
 #Bypass
 #Update
-#Experiment (Always Risk)

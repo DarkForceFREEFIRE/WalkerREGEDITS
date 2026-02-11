@@ -1,4 +1,4 @@
-# ⚡ Walker Regedits
+# Walker Regedits
 
 > **The ultimate Free Fire optimization suite. Experience performance like never before.**
 
@@ -13,8 +13,8 @@
 To provide the smoothest experience, Walker Regedits features a clean, intuitive UI. Check out the dashboard and optimization modules below:
 
 <p align="center">
-  <img width="400" alt="Main Dashboard" src="https://github.com/user-attachments/assets/aa993312-6ad0-411a-bb2e-c4a1b407a367" />
-  <img width="400" alt="Settings" src="https://github.com/user-attachments/assets/a3f4a9cd-dce1-4c35-8106-a41cd8f5105a" />
+  <img width="392" alt="Login" src="https://github.com/user-attachments/assets/5e93af7d-0e75-4548-b449-4527021d5657" />
+  <img width="410" alt="Functions" src="https://github.com/user-attachments/assets/a3f4a9cd-dce1-4c35-8106-a41cd8f5105a" />
 </p>
 
 <details>

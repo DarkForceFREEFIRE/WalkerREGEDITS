@@ -21,6 +21,7 @@ To provide the smoothest experience, Walker Regedits features a clean, intuitive
 <summary><b>View More Screenshots</b></summary>
 <br>
 <p align="center">
+  <img width="400" src="https://github.com/user-attachments/assets/06906e5e-2743-41bc-bc8f-ce69565f4707" />
   <img width="400" src="https://github.com/user-attachments/assets/50ec3cd6-7b51-46b9-8587-bf96d503b751" />
   <img width="400" src="https://github.com/user-attachments/assets/cf995dc1-52ed-42e1-a6fc-6ebb76c4303b" />
   <img width="400" src="https://github.com/user-attachments/assets/64ad9025-6f85-41c1-8874-da543f6e095a" />

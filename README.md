@@ -13,7 +13,7 @@
 To provide the smoothest experience, Walker Regedits features a clean, intuitive UI. Check out the dashboard and optimization modules below:
 
 <p align="center">
-  <img width="392" alt="Login" src="https://github.com/user-attachments/assets/5e93af7d-0e75-4548-b449-4527021d5657" />
+  <img height="284" alt="Login" src="https://github.com/user-attachments/assets/5e93af7d-0e75-4548-b449-4527021d5657" />
   <img width="410" alt="Functions" src="https://github.com/user-attachments/assets/a3f4a9cd-dce1-4c35-8106-a41cd8f5105a" />
 </p>
 
